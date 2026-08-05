@@ -6,10 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;Backend+Developer;Node.js+%7C+Express.js+%7C+React.js;MongoDB+%7C+Redis+%7C+RabbitMQ;Building+Scalable+Applications;Immediate+Joiner" />
 
-<!-- <p>
+ <p>
 <img src="https://img.shields.io/badge/Experience-2.9%2B%20Years-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20To%20Work-Immediate%20Joiner-success?style=for-the-badge"/>
-</p> -->
+</p> 
 
 </div>
 

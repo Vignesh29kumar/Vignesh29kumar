@@ -9,7 +9,6 @@
 <p>
 <img src="https://img.shields.io/badge/Experience-2.9%2B%20Years-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20To%20Work-Immediate%20Joiner-success?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
 </p>
 
 </div>
@@ -199,7 +198,7 @@ I enjoy designing scalable backend systems, optimizing APIs, solving complex pro
 **https://linkedin.com/in/vignesh-kumar-mr**
 
 🌍 Portfolio
-**https://YOUR_PORTFOLIO_URL**
+**https://vigneshkumar-mr-porfolio.netlify.app/**
 
 ---
 

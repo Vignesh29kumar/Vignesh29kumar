@@ -1,360 +1,111 @@
-<!-- ========================= -->
-<!--      VIGNESH KUMAR MR     -->
-<!-- ========================= -->
-
-<h1 align="center">
-Hi 👋, I'm Vignesh Kumar MR
-</h1>
-
-<h3 align="center">
-🚀 Full-Stack MERN Developer | Node.js Backend Engineer | Building Scalable Applications
-</h3>
+# 👋 Hi, I'm Vignesh Kumar MR
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+MERN+Developer;Node.js+Backend+Developer;Building+Scalable+REST+APIs;Real-Time+Applications+with+Socket.io;MongoDB+%7C+Redis+%7C+RabbitMQ;Docker+%7C+AWS+%7C+CI%2FCD;Always+Learning+New+Technologies" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,100:92FE9D&text=Vignesh%20Kumar%20MR&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-
-<a href="mailto:vignesh29ramesh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://linkedin.com/in/vignesh-kumar-mr">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome">
-</a>
-
-<img src="https://img.shields.io/badge/Open%20To%20Work-Immediate%20Joiner-success?style=for-the-badge">
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+MERN+Developer;Node.js+Backend+Engineer;MongoDB+%7C+React.js+%7C+Express.js;Redis+%7C+RabbitMQ+%7C+Docker;Immediate+Joiner"/>
 </p>
 
----
-
-# 👨‍💻 About Me
-
-I'm a **Full-Stack MERN Developer** with **2.9+ years** of professional experience building scalable web applications, REST APIs, real-time systems, and desktop applications.
-
-I enjoy solving backend challenges involving scalability, system performance, authentication, caching, messaging systems, and cloud integrations.
-
-### 💡 I specialize in
-
-- 🚀 Scalable Backend Development
-- ⚡ High Performance REST APIs
-- 💬 Real-Time Applications (Socket.io)
-- 🔐 Authentication & Authorization
-- 📦 Microservice Ready Architecture
-- ☁️ AWS S3 Integrations
-- 🐳 Docker & CI/CD
-- 💳 Payment Gateway Integration
-- 📊 MongoDB Performance Optimization
-- 🔄 Redis & RabbitMQ
-
----
-
-# 🚀 Tech Stack
-
-## 💻 Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=js,nodejs"/>
-
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
----
+## 🚀 About Me
 
-## 🎨 Frontend
+- 💼 Full-Stack MERN Developer with **2.9+ years** experience
+- ⚙️ Backend specialist in **Node.js & Express.js**
+- 🗄️ MongoDB, Redis, RabbitMQ
+- ☁️ AWS S3, Docker, GitHub Actions
+- 💳 Razorpay & RevenueCat integrations
+- 💬 Real-time apps using Socket.io
+- 📍 Madurai, Tamil Nadu, India
+- ✅ Immediate Joiner
 
-<p>
+## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,html,css,electron"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,js,react,express,mongodb,mysql,redis,docker,aws,git,github,electron,html,css"/>
 </p>
 
----
+## ⭐ Featured Projects
 
-## ⚙ Backend
+### 🚗 Car Wash Subscription Platform
+- Automated scheduling
+- Razorpay recurring billing
+- Redis caching
+- Real-time tracking
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-</p>
-
-- REST APIs
-- JWT Authentication
-- RBAC
+### ♻ Scrap Marketplace
+- Real-time bidding
 - Socket.io
-- Cluster
-- Redis
+- High-performance APIs
 
----
+### 💬 Chat Application
+- One-to-one & Group chat
+- Read receipts
+- AWS S3 media
+- Sharp image compression
 
-## 🗄 Database
+### 🚩 Feature Flag Management
+- Multi-tenant
+- Super Admin/Admin/User
+- Dynamic feature toggles
 
-<p>
+## 📊 GitHub Stats
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
-
-**Expertise**
-
-- Aggregation Pipeline
-- Indexing
-- Query Optimization
-- Database Design
-
----
-
-## ⚡ Caching & Messaging
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=redis,rabbitmq"/>
-
-</p>
-
-- Redis Session Cache
-- Data Caching
-- RabbitMQ Messaging
-- Event Driven Architecture
-
----
-
-## ☁ Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,github,git"/>
-
-</p>
-
-- AWS S3
-- Docker
-- GitHub Actions
-- CI/CD
-- Render
-- Netlify
-
----
-
-## 🛠 Tools
-
-- VS Code
-- Postman
-- Swagger
-- Sharp
-- AWS S3
-- fs Module
-
----
-
-# 💼 Professional Experience
-
-## Full Stack MERN Developer
-
-**Maticz Technologies Pvt. Ltd.**
-
-📍 Madurai, Tamil Nadu
-
-🗓 Aug 2023 — Apr 2026
-
-### Responsibilities
-
-✅ Designed scalable REST APIs
-
-✅ Built secure authentication using JWT
-
-✅ Implemented RBAC
-
-✅ Integrated Razorpay Payment Gateway
-
-✅ Integrated RevenueCat Subscription
-
-✅ Developed Socket.io real-time systems
-
-✅ Built Electron Desktop Applications
-
-✅ AWS S3 File Upload System
-
-✅ Optimized MongoDB using Aggregation & Indexing
-
-✅ Redis Caching
-
-✅ React.js Admin Panel Development
-
----
-
-# 🚀 Featured Projects
-
-## 🚗 Car Wash Subscription Platform
-
-> Subscription platform with automated serviceman scheduling.
-
-### Features
-
-- Razorpay Recurring Billing
-- Subscription Management
-- Real-Time Tracking
-- Redis Cache
-- Low Latency APIs
-
----
-
-## ♻ Scrap Marketplace
-
-Real-time vendor bidding marketplace.
-
-### Highlights
-
-- Socket.io
-- Real-Time Auctions
-- Fast API Response
-- High Concurrent Users
-
----
-
-## 💬 Real-Time Chat Application
-
-Modern chat application supporting
-
-- One-to-One Chat
-- Group Chat
-- Read Receipts
-- Image Sharing
-- MongoDB Persistence
-- Redis Online Users
-- Sharp Image Compression
-- AWS S3 Uploads
-
----
-
-## 💻 Cross Platform Desktop App
-
-Electron + React.js Desktop Application
-
-✔ Windows
-
-✔ Linux
-
-✔ macOS
-
-Single codebase deployment.
-
----
-
-## 🚩 Feature Flag Management System
-
-Enterprise feature flag platform.
-
-### Roles
-
-- Super Admin
-- Organization Admin
-- Users
-
-### Features
-
-- Enable/Disable Flags
-- Multi Organization
-- Dynamic Feature Delivery
-- Instant Flag Lookup
-
----
-
-# 📈 What I Love Building
-
-- REST APIs
-- Backend Architecture
-- Authentication Systems
-- Chat Applications
-- Payment Integrations
-- Subscription Platforms
-- Feature Flag Systems
-- Cloud Based Applications
-- Real-Time Systems
-- Enterprise Dashboards
-
----
-
-# 🎯 Currently Learning
-
-- Microservices
-- Kubernetes
-- Advanced System Design
-- Distributed Systems
-- Event-Driven Architecture
-- Scalable Backend Design
-
----
-
-# 🎓 Education
-
-**Bachelor of Computer Science**
-
-🏫 Sourashtra College
-
-📍 Madurai, Tamil Nadu
-
-🎓 CGPA: **8.4**
-
-2019 — 2022
-
----
-
-# 🌟 GitHub Stats
+> Replace `YOUR_USERNAME` below with your GitHub username.
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
 </p>
-
----
-
-# 📫 Connect With Me
-
-📧 **vignesh29ramesh@gmail.com**
-
-📱 **+91 90877 91335**
-
-📍 **Madurai, Tamil Nadu, India**
-
-💼 LinkedIn
-
-🌐 Portfolio
-
----
-
-<h2 align="center">
-
-"Building scalable software isn't just writing code—it's designing solutions that grow with people."
-
-</h2>
-
----
 
 <p align="center">
-
-⭐ If you like my work, consider giving my repositories a star!
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 </p>
+
+## 🏆 Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true"/>
+</p>
+
+## 🐍 Contribution Snake
+
+```yaml
+# .github/workflows/snake.yml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YOUR_USERNAME
+          outputs: dist/github-contribution-grid-snake.svg
+```
+
+Then display:
+
+```html
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+```
+
+## 📫 Connect
+
+- 📧 vignesh29ramesh@gmail.com
+- 📱 +91 90877 91335
+- 💼 LinkedIn: https://linkedin.com/in/vignesh-kumar-mr
+
+---
+<p align="center"><b>"Building scalable software that creates real-world impact."</b></p>

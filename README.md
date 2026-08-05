@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Full-Stack MERN Developer | Backend Engineer | Node.js Enthusiast
+### 🚀 Full-Stack MERN Developer | Backend Engineer | Node.js Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;Backend+Developer;Node.js+%7C+Express.js+%7C+React.js;MongoDB+%7C+Redis+%7C+RabbitMQ;Building+Scalable+Applications;Immediate+Joiner" />
 

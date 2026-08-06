@@ -1,8 +1,11 @@
 <div align="center">
 
+<!-- Animated gradient wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8A2BE2&height=180&section=header&text=Vignesh%20Kumar%20MR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=58&descSize=18"/>
+
 <!-- Animated typing header -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vignesh+Kumar+MR;Full-Stack+MERN+Developer;Node.js+%7C+React.js+%7C+Express.js+%7C+MongoDB;Building+scalable+web+apps+since+2023" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vignesh+Kumar+MR;Full-Stack+MERN+Developer;Node.js+%7C+React.js+%7C+Express.js+%7C+MongoDB;Building+scalable+web+apps+since+2023;Immediate+Joiner+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,6 +34,10 @@ const vigneshKumar = {
 ```
 
 Results-driven **Full-Stack MERN Developer** with hands-on experience designing and shipping scalable, high-performance web applications using **MongoDB, Express.js, React.js, and Node.js**. I love building RESTful APIs, real-time systems with Socket.io, and integrating payments & cloud services — always with an eye on performance, scalability, and clean code.
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,mysql,redis,rabbitmq,docker,aws,electron,git,html,css,postman,githubactions&theme=dark&perline=8" alt="Skill Icons"/>
+</div>
 
 ---
 
@@ -160,6 +167,18 @@ Full-stack MERN application for managing feature flags across multiple organizat
 
 **Bachelor of Computer Science** — Sourashtra College, Madurai, Tamil Nadu
 `2019 – 2022` &nbsp;|&nbsp; CGPA: **8.4**
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vigneshkumarmr/vigneshkumarmr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="90%"/>
+
+</div>
+
+> 🎮 This animated snake "eats" your contribution graph. It needs a one-time GitHub Actions setup — see **`snake.yml`** provided alongside this README. Once the workflow runs once, the image above will render automatically on your profile.
 
 ---
 

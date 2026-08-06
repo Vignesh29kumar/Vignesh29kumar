@@ -202,7 +202,7 @@ Full-stack MERN application for managing feature flags across multiple organizat
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-vignesh29ramesh@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh29ramesh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-vignesh--kumar--mr-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/-vignesh--kumar--mr-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-kumar-mr)
 [![Phone](https://img.shields.io/badge/-+91_90877_91335-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919087791335)
 
 </div>

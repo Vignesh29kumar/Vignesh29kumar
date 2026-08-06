@@ -10,9 +10,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vigneshkumarmr&color=00D9FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Vignesh29kumar&color=00D9FF&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-kumar-mr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vigneshkumarmr-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vigneshkumarmr-portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh29ramesh@gmail.com)
 [![Location](https://img.shields.io/badge/Madurai%2C_TN-4285F4?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
@@ -174,7 +174,7 @@ Full-stack MERN application for managing feature flags across multiple organizat
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vigneshkumarmr/vigneshkumarmr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="90%"/>
+<img src="https://raw.githubusercontent.com/Vignesh29kumar/Vignesh29kumar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="90%"/>
 
 </div>
 
@@ -186,16 +186,14 @@ Full-stack MERN application for managing feature flags across multiple organizat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vigneshkumarmr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshkumarmr&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vignesh29kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh29kumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkumarmr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh29kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshkumarmr&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh29kumar&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
 
 </div>
-
-> ⚙️ **Note:** Replace `vigneshkumarmr` above with your actual GitHub username for the stats widgets to render correctly.
 
 ---
 

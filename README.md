@@ -12,7 +12,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vignesh29kumar&color=00D9FF&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-kumar-mr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vigneshkumarmr-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vigneshkumar-mr-portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh29ramesh@gmail.com)
 [![Location](https://img.shields.io/badge/Madurai%2C_TN-4285F4?style=flat-square&logo=googlemaps&logoColor=white)](#)
 

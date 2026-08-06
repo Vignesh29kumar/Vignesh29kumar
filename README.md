@@ -11,7 +11,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vignesh29kumar&color=00D9FF&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/-vignesh--kumar--mr-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-kumar-mr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-kumar-mr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vigneshkumar-mr-porfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh29ramesh@gmail.com)
 [![Location](https://img.shields.io/badge/Madurai%2C_TN-4285F4?style=flat-square&logo=googlemaps&logoColor=white)](#)
@@ -202,7 +202,7 @@ Full-stack MERN application for managing feature flags across multiple organizat
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-vignesh29ramesh@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh29ramesh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-vignesh--kumar--mr-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-kumar-mr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-kumar-mr)
 [![Phone](https://img.shields.io/badge/-+91_90877_91335-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919087791335)
 
 </div>
